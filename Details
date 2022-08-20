@@ -1,0 +1,37 @@
+Topics:
+  Extns Installations
+
+  Scopes:
+    global
+    block
+    function
+
+  1. Copy By Value
+  2. Copy By Reference
+
+  ES6:
+    var, let, const
+
+    Template Literals
+
+    Object Short hand
+
+    Destructuring:
+      Array
+      Object
+  
+    Spread, Rest
+
+  API:
+    Hoisting
+    JSON 
+    XMLHTTP or Codekata Problems
+
+
+
+
+// Indentation --> 
+// variable name ---> camelCase eg: resultSum
+// function name ---> camelCase eg: displayInfo
+
+

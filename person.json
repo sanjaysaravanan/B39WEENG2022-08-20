@@ -1,0 +1,10 @@
+{
+  "a": "Some Content",
+  "b": 2,
+  "c": true,
+  "skills": [
+    "Python",
+    "JS",
+    "Some Sample Content"
+  ]
+}
