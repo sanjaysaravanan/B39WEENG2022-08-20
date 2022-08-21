@@ -3,18 +3,18 @@ Topics:
 
   Scopes:
     global
-    block
+    block --> {}
     function
 
-  1. Copy By Value
-  2. Copy By Reference
+  1. Copy By Value ---> using primitive type as a parameter to function ( in which modification function scope varaiable does not affect global varaiable)
+  2. Copy By Reference ---> using composite type as parameter to function ( modification affect global variable/reference )
 
   ES6:
     var, let, const
 
-    Template Literals
+    Template Literals --> `${<var-name>}`
 
-    Object Short hand
+    Object Short hand --> using var as a key <-> value pair ( where variable name is taken as key a nd the value is taken as the value )
 
     Destructuring:
       Array
